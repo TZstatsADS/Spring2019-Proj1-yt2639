@@ -71,6 +71,7 @@ hm_data <- hm_data %>%
                                         months_3 = "3m", hours_24 = "24h"))
 ```
 
+
 ```{r}
 datatable(hm_data)
 ```
